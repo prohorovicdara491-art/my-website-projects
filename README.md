@@ -8,14 +8,7 @@
 
 ## 📄 Техническое задание
 
-В ТЗ описаны:
-- цели и задачи сайта
-- целевая аудитория (владельцы домашних животных)
-- структура сайта (5 страниц)
-- функциональные требования
-- используемые технологии
-
-📥 [Скачать техническое задание (docx)](./ТЗ-Ветеринарная%20больница.docx)
+📥 [Скачать техническое задание (docx)](./technical-spec.docx)
 
 ---
 
@@ -31,7 +24,7 @@
 
 ### 📸 Диаграмма прецедентов:
 
-<img src="./Диаграмма 1_Use Case.drawio(1).png" alt="Диаграмма прецедентов" width="800"/>
+<img src="https://raw.githubusercontent.com/prohorovicdara491-art/my-website-project/main/use-case.png" alt="Use Case Diagram" width="700"/>
 
 ---
 
@@ -47,7 +40,7 @@
 
 ### 📸 Диаграмма развёртывания:
 
-<img src="./Диаграмма 2_Deployment.drawio.png" alt="Диаграмма развёртывания" width="800"/>
+<img src="https://raw.githubusercontent.com/prohorovicdara491-art/my-website-project/main/deployment.png" alt="Deployment Diagram" width="700"/>
 
 ---
 
@@ -56,9 +49,9 @@
 | Файл | Описание |
 |------|----------|
 | `README.md` | Описание проекта |
-| `ТЗ-Ветеринарная больница.docx` | Техническое задание на разработку сайта |
-| `Диаграмма 1_Use Case.drawio(1).png` | Диаграмма прецедентов (Use Case) |
-| `Диаграмма 2_Deployment.drawio.png` | Диаграмма развёртывания (Deployment) |
+| `technical-spec.docx` | Техническое задание |
+| `use-case.png` | Диаграмма прецедентов |
+| `deployment.png` | Диаграмма развёртывания |
 
 ---
 
@@ -68,8 +61,6 @@
 Группа: 09.02.07 ИС21  
 Усть-Лабинский социально-педагогический колледж  
 
-**Руководитель практики:** Граков Дмитрий Витальевич  
-
 ---
 
 ## 🔗 Ссылки
@@ -77,3 +68,7 @@
 - 🌐 [Сайт (WordPress)](http://10.40.40.184)
 - 🔐 [Админ-панель](http://10.40.40.184/wp-admin)
 - 📦 [Репозиторий на GitHub](https://github.com/prohorovicdara491-art/my-website-project)
+
+---
+
+*Дата: 28 апреля 2026 г.*
