@@ -24,7 +24,7 @@
 
 ### 📸 Диаграмма прецедентов:
 
-<img src="https://raw.githubusercontent.com/prohorovicdara491-art/my-website-project/main/use-case.png" alt="Use Case Diagram" width="700"/>
+<img src="https://raw.githubusercontent.com/prohorovicdara491-art/my-website-projects/main/use-case.png" alt="Use Case Diagram" width="700"/>
 
 ---
 
@@ -40,18 +40,7 @@
 
 ### 📸 Диаграмма развёртывания:
 
-<img src="https://raw.githubusercontent.com/prohorovicdara491-art/my-website-project/main/deployment.png" alt="Deployment Diagram" width="700"/>
-
----
-
-## 📁 Состав репозитория
-
-| Файл | Описание |
-|------|----------|
-| `README.md` | Описание проекта |
-| `technical-spec.docx` | Техническое задание |
-| `use-case.png` | Диаграмма прецедентов |
-| `deployment.png` | Диаграмма развёртывания |
+<img src="https://raw.githubusercontent.com/prohorovicdara491-art/my-website-projects/main/deployment.png" alt="Deployment Diagram" width="700"/>
 
 ---
 
@@ -67,7 +56,7 @@
 
 - 🌐 [Сайт (WordPress)](http://10.40.40.184)
 - 🔐 [Админ-панель](http://10.40.40.184/wp-admin)
-- 📦 [Репозиторий на GitHub](https://github.com/prohorovicdara491-art/my-website-project)
+- 📦 [Репозиторий на GitHub](https://github.com/prohorovicdara491-art/my-website-projects)
 
 ---
 
